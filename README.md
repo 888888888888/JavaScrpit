@@ -1,2 +1,2 @@
 # JavaScrpit
-Task 1 for my JavaScrpit curse
+Task 1 for my JavaScript curse
